@@ -20,6 +20,22 @@
           "Component": {
             "Type": 2,
             "Npm": {
+              "Name": "@ec-europa/ecl-ratio",
+              "Version": "0.3.1"
+            }
+          },
+          "PolicyProperties": {},
+          "IsManual": false,
+          "DependencyRoots": null,
+          "DetectedComponentLocations": [
+            "/cgmanifest.json"
+          ],
+          "DevelopmentDependency": false
+        },
+        {
+          "Component": {
+            "Type": 2,
+            "Npm": {
               "Name": "react-column-resizer",
               "Version": "1.1.8"
             }
