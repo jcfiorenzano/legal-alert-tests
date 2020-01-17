@@ -21,7 +21,7 @@
             "Type": 3,
             "Maven": {
               "GroupId": "org.fuzzydb.attrs",
-              "ArtifactId": "org.fuzzydb.attrs",
+              "ArtifactId": "org.fuzzydb.attrs.compact",
               "Version": "1.0.0.M4"
             }
           },
