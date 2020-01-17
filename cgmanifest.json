@@ -18,6 +18,23 @@
         },
         {
           "Component": {
+            "Type": 3,
+            "Maven": {
+              "GroupId": "org.fuzzydb.attrs",
+              "ArtifactId": "org.fuzzydb.attrs",
+              "Version": "1.0.0.M4"
+            }
+          },
+          "PolicyProperties": {},
+          "IsManual": false,
+          "DependencyRoots": null,
+          "DetectedComponentLocations": [
+            "/cgmanifest.json"
+          ],
+          "DevelopmentDependency": false
+        },
+        {
+          "Component": {
             "Type": 2,
             "Npm": {
               "Name": "@ecl/eu-utility-text",
