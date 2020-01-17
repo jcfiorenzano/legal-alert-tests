@@ -255,6 +255,23 @@
             "/cgmanifest.json"
           ],
           "DevelopmentDependency": false
-        }
+        },
+         {
+        "Component": {
+          "Type": 3,
+          "Maven": {
+            "GroupId": "org.fuzzydb.attrs",
+            "ArtifactId": "org.fuzzydb.attrs.compact",
+            "Version": "1.0.0.M4"
+          }
+        },
+        "PolicyProperties": {},
+        "IsManual": false,
+        "DependencyRoots": null,
+        "DetectedComponentLocations": [
+          "/cgmanifest.json"
+        ],
+        "DevelopmentDependency": false
+      }
       ]
 }
