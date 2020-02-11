@@ -20,6 +20,22 @@
           "Component": {
             "Type": 2,
             "Npm": {
+              "Name": "a",
+              "Version": "2.1.2"
+            }
+          },
+          "PolicyProperties": {},
+          "IsManual": false,
+          "DependencyRoots": null,
+          "DetectedComponentLocations": [
+            "/cgmanifest.json"
+          ],
+          "DevelopmentDependency": false
+        },
+        {
+          "Component": {
+            "Type": 2,
+            "Npm": {
               "Name": "@ecl/eu-utility-text",
               "Version": "2.5.0"
             }
