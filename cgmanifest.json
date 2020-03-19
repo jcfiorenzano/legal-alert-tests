@@ -84,22 +84,6 @@
           "Component": {
             "Type": 2,
             "Npm": {
-              "Name": "athom-cli",
-              "Version": "2.1.58"
-            }
-          },
-          "PolicyProperties": {},
-          "IsManual": false,
-          "DependencyRoots": null,
-          "DetectedComponentLocations": [
-            "/cgmanifest.json"
-          ],
-          "DevelopmentDependency": false
-        },
-        {
-          "Component": {
-            "Type": 2,
-            "Npm": {
               "Name": "react-column-resizer",
               "Version": "1.1.8"
             }
