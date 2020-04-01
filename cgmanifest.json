@@ -36,6 +36,22 @@
           "Component": {
             "Type": 2,
             "Npm": {
+              "Name": "electron",
+              "Version": "1.7.0"
+            }
+          },
+          "PolicyProperties": {},
+          "IsManual": false,
+          "DependencyRoots": null,
+          "DetectedComponentLocations": [
+            "/cgmanifest.json"
+          ],
+          "DevelopmentDependency": false
+        },
+        {
+          "Component": {
+            "Type": 2,
+            "Npm": {
               "Name": "a",
               "Version": "2.1.2"
             }
